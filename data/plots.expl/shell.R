@@ -1,9 +1,7 @@
-# (C) Michael Pokojovy (2024)
-
 setwd(???)
 
 ## load stocks and legend
-load(file = "../stocks.combined.RData")
+load(file = "../../stocks.combined.RData")
 stocks.legend = read.csv("legend.csv", header= TRUE, stringsAsFactors = FALSE)
 
 time.cut = 37424
