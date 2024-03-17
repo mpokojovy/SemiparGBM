@@ -1,4 +1,4 @@
-# Michael Orosz (2024)
+# (C) Michael Orosz (2024)
 ########## Install Packages#############
 library(tidyr)
 library(dplyr)
