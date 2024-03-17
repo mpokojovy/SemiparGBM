@@ -1,0 +1,248 @@
+Key,Symbol,Name
+US1,A,Agilent Technologies INC
+US2,AA,Alcoa INC
+US3,AABA,Altaba INC
+US4,AAL,American Airlines Group INC
+US5,AAPL,Apple INC
+US6,ABC,Amerisourcebergen Corp
+US7,ABEV,Ambev S.A
+US8,ABT,Abbott Laboratories
+US9,ADBE,Adobe Systems Inc
+US10,ADI,Analog Devices Inc
+US11,ADP,Automatic Data Processing
+US12,ADSK,Autodesk Inc
+US14,AIG,American International Group
+US15,ALL,Autodesk Inc
+US16,ALXN,Alexion Pharmaceuticals Inc
+US17,AMAT,Applied Materials Inc
+US18,AMD,Advanced Micro Devices
+US19,AMGN,Amgen Inc
+US20,AMT,American Tower Corp
+US21,AMZN,Amazon Inc
+US22,ANTM,Anthem Inc
+US23,APA,Apache Corp
+US24,APC,Anadarko Petroleum Corp
+US25,APD,Air Products & Chemicals Inc
+US26,ATVI,Activision Blizzard Inc
+US27,AVB,Avalonbay Communities Inc
+US28,AVGO,Broadcom Limited
+US29,AXP,American Express Co
+US30,AZN,AstraZeneca PLC
+US31,AZO,Autozone Inc
+US32,BA,Boeing Co
+US33,BABA,Alibaba Group 
+US34,BAC,Bank of America Corp
+US35,BBD,Banco Bradesco S.A.
+US36,BBT,BB&T Corp
+US37,BBY,Best Buy Co INC
+US38,BDX,Becton Dickinson and Co
+US39,BIDU,Baidu Inc
+US40,BIIB,Biogen
+US41,BK,Bank of New York Mellon Corp
+US42,BMY,Bristol-Myers Squibb Co
+US43,BP,BP p.l.c
+US44,BRKB,Berkshire Hathaway INC-CL B
+US45,BSX,Boston Scientific Corp
+US46,C,Citigroup Inc
+US47,CAG,Congara Foods Inc
+US49,CAT,Caterpillar Inc
+US50,CBS,CBS Corp-Class B non voting
+US51,CELG,Celgene Corp
+US52,CF,CF Industries Holdings Inc
+US53,CI,Cigna Corp
+US54,CL,Colgate-Palmolive Co
+US55,CMCSA,Comcast Corp-Class A
+US56,CME,CME Group Inc
+US57,CMG,Chipotle Mexican Grill Inc
+US58,CMI,Cummins Inc
+US59,COL,Rockwell Collins Inc
+US61,COST,Costco Wholesale Corp
+US62,CRM,Saleforce Inc
+US63,CS,Credit Suisse Group AG
+US64,CSCO,Cisco Systems Inc
+US65,CSX,CSX Corp
+US66,CTL,Century Link Inc
+US67,CTSH,Cognizant Tech Solutions - A
+US68,CVS,CVS Health Corp
+US69,CVX,Chevron Corp
+US70,D,Dominion Resources Inc/VA
+US71,DAL,Delta Air Lines Inc
+US72,DE,Deere & Co
+US73,DFS,Discover Financial Services
+US74,DG,Dollar General Corp
+US75,DHI,Dr Horton Inc
+US76,DHR,Danaher Corp
+US77,DIS,Walt Disney Co
+US79,DUK,Duke Energy Corp
+US80,DVA,Davita Healthcare Partners
+US81,DVN,Devon Energy Corp
+US82,EA,Electronic Arts Inc
+US83,EBAY,Ebay Inc
+US84,EFX,Equifax Inc
+US85,EIX,Edison International
+US86,EL,Estee Lauder Companies - CL A
+US87,EMR,Emerson Electric Co
+US88,EOG,EOG Resources Inc
+US89,EQT,EQT Corp
+US90,ESRX,Express Scripts Holding Co
+US91,EXC,Exelon Corp
+US93,F,Ford Motor Co
+US94,FB,Facebook Inc-A
+US95,FCX,Freeport-McMoran Inc
+US96,FDX,FEDEX Corp
+US97,FE,Firstenergy Corp
+US98,FOXA,Twenty-First Century Fox-A
+US99,GE,General Electric Co
+US100,GILD,Gilead Sciences Inc
+US101,GIS,General Mills Inc
+US102,GLW,Corning Inc
+US103,GM,General Motors Co
+US104,GOOG,Alphabet INC-CL C
+US105,GOOGL,Alphabet INC-CL A
+US106,GPS,GAP INC
+US107,GS,Goldman Sachs Group Inc
+US108,GWW,WW Grainger Inc
+US109,HAL,Haliburton Co
+US110,HCN,Welltower Inc
+US111,HCP,HCP Inc
+US112,HD,Home Depot Inc
+US113,HES,Hess Corp
+US114,HON,Honeywell International Inc
+US115,HPQ,HP Inc
+US116,HUM,Humana Inc
+US117,IBM,Intl Business Machines Corp
+US118,ICE,Intercontinental Exchange IN
+US119,ILMN,Illumina Inc
+US120,INTC,Intel Corp
+US121,INTU,Intuit Inc
+US122,IPG,Interpublic Group of COS Inc
+US123,ISRG,Intuitive Surgical Inc
+US124,ITUB,Itau Unibanco Holding S.A.
+US125,ITW,Illinois Tool Works
+US126,JCI,Johnson Controls Inc
+US127,JNJ,Johnson & Johnson
+US128,JPM,JP Morgan Chase & Co
+US129,JWN,Nordstrom Inc
+US130,K,Kellogg Co
+US131,KEY,Keycorp
+US132,KHC,Kraft Heinz Co
+US133,KMB,Kimberly-Clark Corp
+US134,KMI,Kinder Morgan Inc
+US135,KO,Coca-Cola Co
+US136,KR,Kroger Co
+US137,KSS,Kohls Corp
+US138,L,Loews Corp
+US139,LEN,Lennar Corp-A
+US140,LLY,Eli Lilly & Co
+US141,LMT,Lockheed Martin Corp
+US142,LOW,Lowe's COS INC
+US143,LRCX,LAM Research Corp
+US144,LUV,Southwest Airlines Co
+US145,LVS,Las Vegas Sands Corp
+US146,M,Macy's Inc
+US147,MA,Mastercard INC-Class A
+US148,MAR,Marriott International- CL A
+US149,MAT,Mattel Inc
+US150,MCD,McDonalds Corp
+US151,MCHP,Microchip Technology Inc
+US152,MCK,McKesson Corp
+US153,MDLZ,Mondelez International Inc-A
+US154,MET,Metlife Inc
+US156,MMM,3M Co
+US157,MO,Altria Group Inc
+US158,MPC,Marathon Petroleum Corp
+US159,MRK,Merck & Co Inc
+US160,MRO,Marathon Oil Corp
+US161,MS,Morgan Stanley
+US162,MSFT,Microsoft Corp
+US163,MU,Micron Technology
+US164,NBL,Noble Energy Inc
+US165,NEE,Nextera Energy Inc
+US166,NEM,Newmont Mining Corp
+US167,NFLX,Netflix Inc
+US168,NKE,Nike Inc
+US169,NOC,Northrop Grumman Corp
+US170,NRG,NRG Energy Inc
+US171,NSC,Norfolk Southern Corp
+US172,NVDA,NVIDIA Corp
+US173,NWL,Newell Brands Inc
+US174,OKE,Oneok Inc
+US175,OMC,Omnicom Group
+US176,ORCL,Oracle Corp
+US177,ORLY,O'Reilly Automotive Inc
+US178,OXY,Occidental Petroleum Corp
+US179,PAYX,Paychex Inc
+US180,PBR,Petroleo Brasileiro S.A.
+US181,PCAR,Paccar Inc
+US182,PCG,PG&E Corp
+US183,PCLN,Priceline Group Inc
+US184,PEP,Pepsico Inc
+US185,PFE,Pfizer Inc
+US186,PG,Procter & Gamble Co
+US187,PGR,Progressive Corp
+US188,PH,Parker Hannifin Corp
+US189,PM,Philip Morris International
+US190,PNC,PNC Financial Services Group
+US191,PPG,PPG Industries Inc
+US192,PRU,Prudential Financial Inc
+US193,PSA,Public Storage
+US194,PSX,Phillips 66
+US195,PXD,Pioneer Natural Resources Co
+US196,PYPL,Paypal Holdings Inc
+US197,QCOM,Qualcomm Inc
+US198,REGN,Regeneron Pharmaceuticals
+US199,RF,Regions Financial Corp
+US200,ROST,Ross Stores Inc
+US201,RRC,Range Resources Corp
+US202,RTN,Raytheon Company
+US203,SBUX,Starbucks Corp
+US204,SCHW,Schwab (Charles) Corp
+US205,SHW,Sherwin-Williams Company
+US206,SJM,JM Smucker Company
+US207,SNAP,SNAP Inc
+US208,SO,Southern Co
+US209,SPG,Simon Property Group Inc
+US210,STI,Suntrust Banks Inc
+US211,STT,State Street Corp
+US212,STZ,Constellation Brands INC-A
+US213,SWK,Stanley Black & Decker Inc
+US214,SYK,Stryker Corp
+US215,SYMC,Symantec Corp
+US216,SYY,Sysco Corp
+US218,TAP,Molson Coors Brewing Co-B
+US219,TEVA,Teva Pharmaceutical-SP ADR
+US220,TGT,Target Corp
+US221,TIF,Tiffany & Co
+US223,TMO,Thermo Fisher Scientific Inc
+US224,TROW,T Rowe Price Group Inc
+US225,TRV,Travelers COS Inc
+US226,TSLA,Tesla Motors Inc
+US227,TSM,Taiwan Semiconductor Manufacturing Company Limitied
+US228,TSN,Tyson Foods Inc-CL A
+US229,TWTR,Twitter Inc
+US230,TXN,Texas Instruments Inc
+US231,ULTA,Ulta Salon Cosmetics & Fragrance
+US232,UNH,United Health Group Inc
+US233,UNP,Union Pacific Corp
+US234,UPS,United Parcel Service-CL B
+US235,USB,US Bancorp
+US236,UTX,United Technologies Corp
+US237,V,Visa Inc-Class A Shares
+US238,VALE,Vale S.A
+US239,VFC,VF Corp
+US240,VIAB,Viacom Inc-Class B
+US241,VLO,Valero Energy Corp
+US242,VMC,Vulcan Materials Co
+US243,VRTX,Vertex Pharmaceuticals Inc
+US244,VZ,Verizon Communications Inc
+US245,WBA,Walgreens Boots Alliance Inc
+US246,WDC,Western Digital Corp
+US247,WFC,Wells Fargo & Co
+US248,WHR,Whirlpool Corp
+US249,WMT,Walmart Stores Inc
+US250,WYNN,Wynn Resorts LTD
+US251,X,United States Steel Corp
+US252,XLNX,Xilinx Inc
+US253,XOM,Exxon Mobil Corp
+US254,YUM,Yum! Brands Inc
+US255,ZBH,Zimmer Biomet Holdings Inc
