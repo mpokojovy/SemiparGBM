@@ -1,4 +1,3 @@
-# (C) Michael Orosz (2024)
 ########## Install Packages#############
 library(tidyr)
 library(dplyr)
@@ -14,7 +13,7 @@ library(reshape2)
 setwd(???)
 
 ## load legend
-stocks.legend = read.csv("plots/legend.csv", header= TRUE, stringsAsFactors = FALSE)
+stocks.legend = read.csv("legend.csv", header= TRUE, stringsAsFactors = FALSE)
 
 ################## Import NYSE Unzip file Build Data frame #############################
 filename="NYSE.zip"          # The name of the zipfile you want to read
