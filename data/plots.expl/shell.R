@@ -1,3 +1,5 @@
+# (C) Michael Pokojovy (2024)
+
 setwd(???)
 
 ## load stocks and legend
